@@ -1,0 +1,2 @@
+# MingchengCommunityPropertyManagementPlatform
+ 基于SpringBoot Vue的名城小区物业管理平台
